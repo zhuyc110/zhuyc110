@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![TopLangs](https://github-readme-stats.vercel.app/api/top-langs?username=zhuyc110&layout=compact&show_icons=true&theme=ocean_dark)  
 <!--
 **zhuyc110/zhuyc110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
