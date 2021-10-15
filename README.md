@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 😜.
 
 ![TopLangs](https://github-readme-stats.vercel.app/api/top-langs?username=zhuyc110&layout=compact&show_icons=true&theme=ocean_dark)  
 <!--
